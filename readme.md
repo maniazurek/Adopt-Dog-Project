@@ -11,7 +11,7 @@
 
 ## 1. API
 
-**Base url**: https://dogs-api-awdk.onrender.com
+**Base url**: https://dogs-api.fly.dev
 
 **GET** /dogs
 
@@ -66,5 +66,3 @@ _Response error_:
   success: Boolean
 }
 ```
-
-
