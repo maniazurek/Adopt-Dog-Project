@@ -688,6 +688,7 @@ body {
   width: 136px;
   background-color: transparent;
   color: var(--accent-color);
+  cursor: pointer;
 }
 
 .dogs-container__filter-options_button:hover {
@@ -812,6 +813,8 @@ body {
 .dogs-container__dogs-list_img {
   width: 100%;
   border-radius: 10px;
+  height: 160px;
+  object-fit: cover;
 }
 
 .dogs-container__dogs-list_name {
@@ -875,6 +878,7 @@ body {
   background-repeat: no-repeat;
   border: none;
   background-color: transparent;
+  cursor: pointer;
 }
 
 .dogs-container__pagination_page {
@@ -885,6 +889,7 @@ body {
   background-color: transparent;
   border: none;
   color: var(--accent-color);
+  cursor: pointer;
 }
 
 .dogs-container__pagination_page:hover,
